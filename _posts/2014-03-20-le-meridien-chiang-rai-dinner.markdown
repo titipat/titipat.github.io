@@ -4,10 +4,8 @@ title: กินมื้อเย็นที่ Le Meridien Chiang Rai
 date: 2014-03-20 13:18:27.000000000 +07:00
 ---
 <div><img alt="" src="http://i1224.photobucket.com/albums/ee379/HoLYFiNGeR/Blogging/Summer%202012/IMG_0908.jpg" width="598" height="800" /></div>
-<div></div>
-<div>กลับเชียงรายมาเจอเพื่อนเก่าสมัย ม.ต้น ทั้งทีเลยขอจัดร้านอาหารแบบโดนๆเลยครับ ผมมากันที่โรงแรม <a href="http://www.lemeridienchiangrai.com/" target="_blank">Le Meridien Chiang Rai</a> ตัวโรงแรมอยู่ลึกจากถนนซุปเปอร์นิดหน่อยแต่บรรยากาศดีมาก ติดริมน้ำกกเลย<!--more--></div>
+<div>กลับเชียงรายมาเจอเพื่อนเก่าสมัย ม.ต้น ทั้งทีเลยขอจัดร้านอาหารแบบโดนๆเลยครับ ผมมากันที่โรงแรม <a href="http://www.lemeridienchiangrai.com/" target="_blank">Le Meridien Chiang Rai</a> ตัวโรงแรมอยู่ลึกจากถนนซุปเปอร์นิดหน่อยแต่บรรยากาศดีมาก ติดริมน้ำกกเลย</div>
 <div style="text-align: center;">
-
 <iframe src="https://maps.google.co.th/maps?hl=th&amp;ie=UTF8&amp;q=le+meridien+chiang+rai&amp;fb=1&amp;gl=th&amp;hq=le+meridien+chiang+rai&amp;cid=0,0,3880218611255772116&amp;t=h&amp;iwloc=A&amp;ll=19.922116,99.854242&amp;spn=0.006295,0.006295&amp;output=embed" height="350" width="425"></iframe>
 
 <small><a style="color: #0000ff; text-align: left;" href="https://maps.google.co.th/maps?hl=th&amp;ie=UTF8&amp;q=le+meridien+chiang+rai&amp;fb=1&amp;gl=th&amp;hq=le+meridien+chiang+rai&amp;cid=0,0,3880218611255772116&amp;t=h&amp;iwloc=A&amp;ll=19.922116,99.854242&amp;spn=0.006295,0.006295&amp;source=embed">ดูแผนที่ขนาดใหญ่ขึ้น</a></small>

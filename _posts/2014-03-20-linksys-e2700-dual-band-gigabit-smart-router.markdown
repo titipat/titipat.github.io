@@ -4,8 +4,7 @@ title: รีวิว Linksys E2700 Dual-band Gigabit Smart Router
 date: 2014-03-20 13:12:42.000000000 +07:00
 ---
 <img class="alignnone" alt="" src="http://farm3.staticflickr.com/2845/8902585875_4fb41ae340_c.jpg" width="800" height="531" />
-<p style="text-align: left;">ชื่อหัวข้อย้าวยาวแต่แปลไทยก็รีวิวเร้าเตอร์นั้นแหละ ใช้งานเจ้า E2700 มาได้สัปดาห์นึงพอจับทางได้แล้วเลยมาเล่าให้ฟังครับ
-<!--more--></p>
+<p style="text-align: left;">ชื่อหัวข้อย้าวยาวแต่แปลไทยก็รีวิวเร้าเตอร์นั้นแหละ ใช้งานเจ้า E2700 มาได้สัปดาห์นึงพอจับทางได้แล้วเลยมาเล่าให้ฟังครับ</p>
 <img class="alignnone" alt="" src="http://farm8.staticflickr.com/7373/8903206752_0b9ec14709_c.jpg" width="800" height="531" />
 <p style="text-align: center;">ทางหลังกล่องจะอธิบายฟิเจอร์ต่างๆของเร้าเตอร์ งานนี้มีภาษาไทยด้วยรับรองว่าเป็นมิตรกับผู้ใช้แน่ๆ</p>
 <img class="alignnone" alt="" src="http://farm8.staticflickr.com/7297/8920461112_2882e153d9_c.jpg" width="800" height="531" />

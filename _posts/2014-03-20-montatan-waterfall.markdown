@@ -3,8 +3,7 @@ layout: post
 title: เที่ยวน้ำตกมณฑาธาร
 date: 2014-03-20 13:21:39.000000000 +07:00
 ---
-<div>สวัสดีครับ สำหรับเอนทรี่นี้จะพามาเที่ยว<a href="http://maps.google.co.th/maps/place?q=%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%95%E0%B8%81%E0%B8%A1%E0%B8%93%E0%B8%91%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%A3&amp;hl=th&amp;ie=UTF8&amp;cid=1607761115262384818"><strong>น้ำตกมณฑาธาร</strong></a>ครับ แต่ครั้งนี้มีเรื่องน่าตื่นเต้นนิดหน่อยครับ เพราะตัวน้ำตกอยู่ระหว่างทางขึ้นดอยสุเทพแถมทางเข้ายังเป็นทางชันด้วย ทำให้เป็นทริปนี้แอบมีหวาดเสียวเล็กน้อยสำหรับคนใช้รถมอไซค์แบบออโต้<!--more--></div>
-<div><strong> </strong></div>
+<div>สวัสดีครับ สำหรับเอนทรี่นี้จะพามาเที่ยว<a href="http://maps.google.co.th/maps/place?q=%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%95%E0%B8%81%E0%B8%A1%E0%B8%93%E0%B8%91%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%A3&amp;hl=th&amp;ie=UTF8&amp;cid=1607761115262384818"><strong>น้ำตกมณฑาธาร</strong></a>ครับ แต่ครั้งนี้มีเรื่องน่าตื่นเต้นนิดหน่อยครับ เพราะตัวน้ำตกอยู่ระหว่างทางขึ้นดอยสุเทพแถมทางเข้ายังเป็นทางชันด้วย ทำให้เป็นทริปนี้แอบมีหวาดเสียวเล็กน้อยสำหรับคนใช้รถมอไซค์แบบออโต้</div>
 <div><a title="IMG_1368 by holykyun, on Flickr" href="http://www.flickr.com/photos/holykyun/6835610340/"><img style="display: block; margin-left: auto; margin-right: auto;" alt="IMG_1368" src="http://farm8.staticflickr.com/7067/6835610340_b4cfb92c5c.jpg" width="500" height="374" /></a></div>
 <div></div>
 <div>เริ่มจากเช็คความพร้อมของมอเตอร์ไซค์ก่อนออกเดินทาง เช็คลมยาง เติมน้ำมันให้พร้อม แล้วเตรียมลุยครับ</div>
@@ -68,7 +67,5 @@ date: 2014-03-20 13:21:39.000000000 +07:00
 <div><a title="DSC_0157 by holykyun, on Flickr" href="http://www.flickr.com/photos/holykyun/6981686053/"><img style="display: block; margin-left: auto; margin-right: auto;" alt="DSC_0157" src="http://farm8.staticflickr.com/7064/6981686053_5fbe81ba88.jpg" width="500" height="334" /></a></div>
 <div></div>
 <div>ที่ชั้นบนสุดมีผีเสื้อด้วยครับ ธรรมชาติสุดๆไปเลย สำหรับใครที่อยากเที่ยวน้ำตกแต่ไม่อยากขับรถไปไกลหรือขี้เกียจเดินให้เมื่อย ผมแนะนำที่น้ำตกมณฑาธารเลยครับ ห่างจาก มช. แทบไม่ถึง 10 กม. เลยด้วยซ้ำ</div>
-<div></div>
+
 <div>แล้วพบกันใหม่เอนทรี่หน้าครับ</div>
-<div></div>
-<div></div>

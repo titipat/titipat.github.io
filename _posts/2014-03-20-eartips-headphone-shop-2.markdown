@@ -4,9 +4,8 @@ title: บุกร้านหูฟังเชียงใหม่ Ear-tips
 date: 2014-03-20 13:18:57.000000000 +07:00
 ---
 <div style="text-align: center;"><img alt="" src="http://i1224.photobucket.com/albums/ee379/HoLYFiNGeR/Blogging/Eartips/DSC_5318.jpg" width="800" height="531" /></div>
-<div style="text-align: left;">สวัสดีครับ วันนี้ผมจะพามาเที่ยวร้านหูฟังสำหรับชาวเชียงใหม่กันครับ นั้นคือร้าน <a href="https://www.facebook.com/EartipsChiangmai" target="_blank">Ear-tips</a> นั้นเอง<!--more--></div>
+<div style="text-align: left;">สวัสดีครับ วันนี้ผมจะพามาเที่ยวร้านหูฟังสำหรับชาวเชียงใหม่กันครับ นั้นคือร้าน <a href="https://www.facebook.com/EartipsChiangmai" target="_blank">Ear-tips</a> นั้นเอง</div>
 <div>ตอนนี้ร้านมี 2 สาขาครับ ทีแรกอยู่ใน Central Plaza Airport ชั้น 3 ฝั่งตู้ปลา กับอีกสาขาหนึ่งอยู่ที่ชั้น 2 โครงการ Nimcity Daily ตามแผนที่ข้างล่างนี้เลย</div>
-<div></div>
 <div><iframe src="https://www.google.com/maps?q=18.771515,+98.976697&amp;ie=UTF8&amp;t=w&amp;z=14&amp;ll=18.771515,98.976697&amp;output=embed" height="350" width="425"></iframe>
 <small><a style="color: #0000ff; text-align: left;" href="https://www.google.com/maps?q=18.771515,+98.976697&amp;ie=UTF8&amp;t=w&amp;z=14&amp;ll=18.771515,98.976697&amp;source=embed">ดูแผนที่ขนาดใหญ่ขึ้น</a></small></div>
 <div></div>

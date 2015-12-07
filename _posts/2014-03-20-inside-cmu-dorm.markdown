@@ -9,10 +9,7 @@ date: 2014-03-20 13:21:06.000000000 +07:00
 	<li>วันจองหอใน - <a href="http://magister.exteen.com/20110515/entry">"</a><a href="http://magister.exteen.com/20110515/entry">สงครามจองหอพักใน มช.</a>"</li>
 	<li>วันรายงานตัวเข้าหอ - <a href="http://magister.exteen.com/20110526/entry">"</a><a href="http://magister.exteen.com/20110526/entry">เข้าหอแล้วครับ</a>"</li>
 </ul>
-<!--more-->
-
 </div>
-<div></div>
 <div><a title="DSC_0963 by holykyun, on Flickr" href="http://www.flickr.com/photos/holykyun/7144340043/"><img alt="DSC_0963" src="http://farm8.staticflickr.com/7049/7144340043_4622b228f5_o.jpg" width="800" height="532" /></a></div>
 <div></div>
 <div style="text-align: center;">บรรยากาศข้างหน้าของหอ 6 ชายหรือเรือนจามจุรี</div>

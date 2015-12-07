@@ -4,14 +4,11 @@ title: '[Preview] iPad Mini ฉบับทำลวกๆ'
 date: 2014-03-20 13:19:55.000000000 +07:00
 ---
 <div style="text-align: left;">ถ้าพูดถึง tablet พกพาที่กำลังมาแรงในช่วงนี้คงหนีไม่พ้น iPad Mini เป็นแน่ ดังนั้นวันนี้เราจะมาบ่นถึงมันกันนะครับ เครื่องที่ใช้ในวันนี้เป็นเครื่องของเพื่อนนะ ส่วนตัวผมซื้อรอบแรกไม่ทันก็ต้องรอต่อไป</div>
-<div><!--more--></div>
-<div></div>
 <div style="text-align: center;"><strong>**ขออภัยถ้าออกมาดูแบบลวกๆนะครับ ผมยืมเพื่อนมาเล่นแล้วก็ถ่ายๆ รวมกันไม่ถึง 5 นาทีเอง**</strong></div>
 <div></div>
 <div><img style="display: block; margin-left: auto; margin-right: auto;" alt="" src="http://i1224.photobucket.com/albums/ee379/HoLYFiNGeR/Blogging/iPad%20Mini/IMG_0299.jpg" width="598" height="801" /></div>
 <div></div>
 <div><strong>เบา บาง พกพาง่าย </strong>น่าจะเป็นจุดขายของ iPad Mini ครับ ใครที่เคยใช้ iPad รุ่นก่อนๆแล้วได้มาลองจับดูจะรู้สึกเลยว่า โอ้ มันเบาดีแท้ ถือเล่นมือเดียวกันเลย</div>
-<div></div>
 <div><img style="display: block; margin-left: auto; margin-right: auto;" alt="" src="http://i1224.photobucket.com/albums/ee379/HoLYFiNGeR/Blogging/iPad%20Mini/IMG_0300.jpg" width="598" height="801" /></div>
 <div></div>
 <div><strong>จอขนาด 7.9 นิ้ว </strong>เล็กกว่ารุ่นเดิม ที่ความละเอียด <span>163 ppi ขณะที่ iPad 2 <span>132 ppi และ iPad retina 264 ppi สำหรับผมที่เคยใช้ iPad 2 มาจะรู้สึกว่ามันละเอียดขึ้นนะ ถามผมว่าพอไหม ผมว่าพอแล้วแหละ</span></span></div>

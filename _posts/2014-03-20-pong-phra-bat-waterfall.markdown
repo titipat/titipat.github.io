@@ -3,7 +3,7 @@ layout: post
 title: เที่ยวน้ำตกโป่งพระบาท จ.เชียงราย
 date: 2014-03-20 13:28:47.000000000 +07:00
 ---
-<div><span style="font-size: small;"><span>สวัสดีครับ วันนี้ไปเที่ยว<strong> น้ำตกโป่งพระบาท บ้านหัวฝาย ตำบลบ้านดู่ อำเภอเมือง เชียงราย</strong> กับเพื่อนๆมาครับ ตัวผมเองเพิ่งจะเคยมาเป็นครั้งแรกแต่ได้ยินคุณแม่บอกว่าที่นี่เคยโดนน้ำซัดไปรอบหนึ่งแล้วทำให้ไม่ค่อยสวยเหมือนเมื่อก่อน แต่ยังไงก็ช่างเถอะครับ ไหนๆมาแล้วมันต้องลุยครับ<!--more--></span></span></div>
+<div><span style="font-size: small;"><span>สวัสดีครับ วันนี้ไปเที่ยว<strong> น้ำตกโป่งพระบาท บ้านหัวฝาย ตำบลบ้านดู่ อำเภอเมือง เชียงราย</strong> กับเพื่อนๆมาครับ ตัวผมเองเพิ่งจะเคยมาเป็นครั้งแรกแต่ได้ยินคุณแม่บอกว่าที่นี่เคยโดนน้ำซัดไปรอบหนึ่งแล้วทำให้ไม่ค่อยสวยเหมือนเมื่อก่อน แต่ยังไงก็ช่างเถอะครับ ไหนๆมาแล้วมันต้องลุยครับ</span></span></div>
 <div>
 
 &nbsp;
@@ -56,4 +56,3 @@ date: 2014-03-20 13:28:47.000000000 +07:00
 <div style="text-align: center;"><span style="font-size: small;"><a title="IMG_0510 by HolyKyun, on Flickr" href="http://www.flickr.com/photos/holykyun/5649563935/"><img alt="IMG_0510" src="http://farm6.static.flickr.com/5145/5649563935_12987dde54.jpg" width="500" height="374" /></a> </span></div>
 <div style="text-align: center;"></div>
 <div style="text-align: center;"><span style="font-size: small;">จนสุดท้ายของทริปนี้มาจบที่ย่อยอาหารกันที่ <strong>Game Center</strong> ชั้นบนหน้าโรงหนัง Major ครับ</span></div>
-&nbsp;

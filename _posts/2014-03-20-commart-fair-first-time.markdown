@@ -10,7 +10,7 @@ date: 2014-03-20 13:26:59.000000000 +07:00
 <div style="text-align: left;"><span style="font-size: small;">โดยเริ่มจากนัดเจอกับเพื่อน(ในแคลน)ที่<strong>จามจุรีสแควร์</strong>ตอน 11 โมงแล้วก็ไปทานข้าวเที่ยวที่<strong>ร้านทูเดย์สเต็ก</strong></span></div>
 <div style="text-align: left;"><span style="font-size: small;">ตอนแรกก็เกร็งๆอยู่เหมือนกันที่ปกติคุยกันได้ยินแต่เสียงแต่วันนี้ได้เจอตัวเป็นๆ</span></div>
 <div style="text-align: left;"><span style="font-size: small;"><strong>รุ่นพี่ในแคลนเลี้ยงสเต๊กด้วยแหละๆ</strong> </span></div>
-<div style="text-align: center;"><!--more--></div>
+<div style="text-align: center;"></div>
 <div style="text-align: center;"></div>
 <div style="text-align: center;"><span style="font-size: small;">เมื่ออิ่ม+ออกกำลังกายด้วยการหัวเราะไปเป็นที่เรียบร้อยแล้วก็ออกเดินทางกันต่อ</span></div>
 <div style="text-align: center;"><span style="font-size: small;">นั้นคือ<strong>ศูนย์ประชุมแห่งชาติฯ</strong> ด้วยการอัด 6 บนแท๊กซี่เพื่อประหยัดตังและหลบฝน (แต่ก็เวิร์คนะ)</span></div>
@@ -41,6 +41,4 @@ date: 2014-03-20 13:26:59.000000000 +07:00
 <div style="text-align: center;"></div>
 <div style="text-align: center;"><span style="font-size: small;">ปล. สุดท้ายกับ Mouse Pad ที่ได้จากในงาน</span></div>
 <div style="text-align: center;"></div>
-<div style="text-align: center;"><span style="font-size: small;"><span style="font-size: small;"><a title="IMG_0365 by HolyKyun, on Flickr" href="http://www.flickr.com/photos/holykyun/5534027589/"><img alt="IMG_0365" src="http://farm6.static.flickr.com/5012/5534027589_362640f1a3.jpg" width="500" height="374" /></a></span></span><span style="font-size: small;">    </span>
-
-</div>
+<div style="text-align: center;"><span style="font-size: small;"><span style="font-size: small;"><a title="IMG_0365 by HolyKyun, on Flickr" href="http://www.flickr.com/photos/holykyun/5534027589/"><img alt="IMG_0365" src="http://farm6.static.flickr.com/5012/5534027589_362640f1a3.jpg" width="500" height="374" /></a></span></span></div>

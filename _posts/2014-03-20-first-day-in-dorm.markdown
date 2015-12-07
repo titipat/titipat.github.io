@@ -3,13 +3,9 @@ layout: post
 title: เข้าหอแล้วครับ
 date: 2014-03-20 13:26:05.000000000 +07:00
 ---
-<div style="text-align: center;"></div>
 <div style="text-align: center;"><span style="font-size: large;">ดูพรีวิวหอแบบมีรูปได้ที่ <a href="http://magister.exteen.com/20120505/preview">"</a><a href="http://magister.exteen.com/20120505/preview">[Preview] หอพักนักศึกษา มหาวิทยาลัยเชียงใหม่</a>" ครับ</span></div>
 <div></div>
 <div>สวัสดีครับ ห่างจากบล๊อคไปนานพอดีติดหูฟังไปหน่อย พักหลังนี้พอตกดึกมาก็ไปนอนฟังเพลงลูกเดียว เอาเป็นว่ามาเริ่มเนื้อหาบล๊อคเอนทรี่นี้กันเถอะครับ ก่อนที่ผมจะออกทะเลไปมากกว่านี้ <img title="Foot in mouth" alt="Foot in mouth" src="http://www.exteen.com/manage/tiny_mce339/plugins/emotions/img/e4.gif" border="0" /></div>
-<div></div>
-<div><!--more--></div>
-<div></div>
 <div><a title="IMG_0646 by holykyun, on Flickr" href="http://www.flickr.com/photos/holykyun/5762071222/"><img style="display: block; margin-left: auto; margin-right: auto;" alt="IMG_0646" src="http://farm4.static.flickr.com/3052/5762071222_006be571bf.jpg" width="500" height="374" /></a></div>
 <div></div>
 <div>วันนี้มีรายงานตัวเข้าหอพักครับ อุตส่าห์ออกจากเชียงรายมาตั้งแต่เช้ากะเวลาว่าน่าจะถึงหอพักก่อนเวลาเปิดรับรายงานตัวนิดหน่อยกลัวคนจะเยอะ แต่พอมาถึงปุ๊ปคนเพียบเลยครับ (ว่าเรามาเร็วแล้วน้าา) แต่ก็ไม่ได้ซีเรียสอะไรมาก ต่อจากนั้นเป็นขั้นตอนยื่นเอกสาร กรอกข้อมูล จ่ายเงิน แล้วก็รับกุญแจห้องมา (ผมโดนค่าไฟโน้ตบุ๊คแบบเหมาจ่ายไป 400 ล่ะ)</div>

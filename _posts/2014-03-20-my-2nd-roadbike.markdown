@@ -3,7 +3,7 @@ layout: post
 title: Bike Diary เล่าไปเรื่อยเรื่องของผมกับจักรยาน
 date: 2014-03-20 13:10:33.000000000 +07:00
 ---
-ไม่ได้เขียนมาพักใหญ่ๆเลยเพราะติด<a href="http://www.cpe.eng.cmu.ac.th/acm-icpc/" target="_blank">งานแข่งเขียนโปรแกรม ACM-ICPC</a> วันนี้เลยจะมาเล่าเกี่ยวกับผมและจักรยานสุดเลิฟต่อ<!--more-->
+ไม่ได้เขียนมาพักใหญ่ๆเลยเพราะติด<a href="http://www.cpe.eng.cmu.ac.th/acm-icpc/" target="_blank">งานแข่งเขียนโปรแกรม ACM-ICPC</a> วันนี้เลยจะมาเล่าเกี่ยวกับผมและจักรยานสุดเลิฟต่อ
 
 <img class="alignnone" alt="" src="http://farm8.staticflickr.com/7289/9342931898_91e6695950_c.jpg" width="800" height="452" />
 
