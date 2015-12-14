@@ -8,7 +8,6 @@ title: MongoDB ODM on Phalcon PHP
 เริ่มจากการ inject mongo client สำหรับการเชื่อมต่อไปหา mongodb และ collection manager ที่ใช้จัดการคำสั่ง collection เสียก่อน ในโค้ดด้านลงผมเชื่อมไปหา database ที่ชื่อว่า bilio
 
 ```php
-
 // index.php
 
 // ...
@@ -33,7 +32,7 @@ use Phalcon\Mvc\Collection;
 
 class Users extends Collection {
 	public function getSource() {
-		return "users";
+	  return "users";
 	}
 }
 ```
