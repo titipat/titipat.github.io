@@ -17,6 +17,10 @@ github_username:  titipat
 # Build settings
 markdown: kramdown
 
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 # Pagination
 gems: [jekyll-paginate]
 paginate: 5
