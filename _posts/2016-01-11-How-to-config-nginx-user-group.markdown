@@ -36,4 +36,4 @@ Default: 	user nobody nobody;
 Context: 	main
 ```
 
-Ref http://nginx.org/en/docs/ngx_core_module.html#user
+Ref [http://nginx.org/en/docs/ngx_core_module.html#user](http://nginx.org/en/docs/ngx_core_module.html#user)
