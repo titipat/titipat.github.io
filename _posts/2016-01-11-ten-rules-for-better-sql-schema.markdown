@@ -10,9 +10,9 @@ title: แปล? กฏ 10 ข้อเพื่อโครงสร้าง 
 ด้วยความที่ว่าเวลาเราเรียกใช้โครงสร้างมักจะอยู่ในรูป `database.schema.table.column` ดังนั้นห้ามมี dot, space, dash หรือ uppercase เลยจะดีที่สุด ไม่เชื่อลองพิมพ์ statement ด้านล่างนี้ดูสิว่าคุณชอบแบบไหนมากกว่ากัน
 
 ```sql
-select "User name" from events
+SELECT "User name" FROM events
 -- versus
-select user_name from events
+SELECT user_name FROM events
 ```
 
 ## 2. ตั้งชื่อคอลัมน์ง่ายๆ แต่ให้สื่อความหมาย
@@ -22,9 +22,9 @@ select user_name from events
 ชื่อที่ไม่สื่อเลยอย่าง `item_value` หรือ `item_type` ต่อให้คุณเข้าใจเองก็เถอะ คนที่เอาไปใช้ต่อก็ต้องเสียเวลาอยู่ดี
 
 ```sql
-select sum(photo_count) from items
+SELECT SUM(photo_count) FROM items
 -- versus
-select sum(item_value) as photo_count
+SELECT SUM(item_value) AS photo_count
 ```
 
 อีกประเภทคือที่ชอบเอาชื่อ table มาเป็น prefix ซ้ำซ้อนอย่าง สมมุตินะถ้านี้คือตาราง users แล้วมี `user_first_name`, `user_birthday` ทำไมคนที่จะนำไปใช้ต้องต้องเสียเวลาพิมพ์ `user_` เพิ่มด้วยว่ะครับ
@@ -81,12 +81,14 @@ id|first_name|last_name|advisor_id
 อันนี้ก็เด็ด ผมเจอบ่อยมากที่คอลัมน์จะใช้เก็บข้อมูเวลาแต่พอเอาเข้าจริงดัน insert ดันใช้การแปลงมาจาก string เฉยเลย
 
 ```php
+<?php
 $sql = "INSERT INTO user_log (user_id, updated_at) VALUES (1, " . date() . ")";
 ```
 
 มันจะง่ายกว่าไหมถ้าเหลือแค่
 
 ```php
+<?php
 $sql = "INSERT INTO user_log (user_id, udpated_at) VALUES (1, NOW())";
 ```
 
@@ -97,7 +99,7 @@ $sql = "INSERT INTO user_log (user_id, udpated_at) VALUES (1, NOW())";
 ด้วยความยืดหยุ่นที่เราสามารถเก็บได้หลาย timezone ทำให้มีโอกาสที่ในระบบหนึ่งจะเกิดการ insert ของ timestamp มากกว่า 1 timezone สุดท้ายมันจะทำให้การจัดการยุ่งยากขึ้นมาก ดังนั้นตอนเก็บให้เป็น UTC ดีกว่าแล้วเวลาจะเรียกใช้ค่อย convert เอาด้วยวิธีง่ายๆ เช่น
 
 ```sql
-select id, email, [created_at:pst] from users
+SELECT id, email, [created_at:pst] FROM users
 ```
 
 ## 8. ให้มันมีสักอันเดียวเถอะ
@@ -106,7 +108,7 @@ select id, email, [created_at:pst] from users
 
 ## 9. อย่าสร้างตารางที่โตแนวกว้าง
 
-อันนี้ก็เด็ดครับและผมเคยเจอกับตัวด้วย มีโปรแกรมเมอร์คนหนึ่งที่ทำงานได้โจทย์ให้เขียนโปรแกรมเก็บ mac address ของผู้ใช้
+อันนี้ก็เด็ดครับและผมเคยเจอกับตัวด้วย มีโปรแกรมเมอร์คนหนึ่งที่ทำงานjได้โจทย์ให้เขียนโปรแกรมเก็บ mac address ของผู้ใช้
 
 user
 
@@ -142,10 +144,10 @@ id|address
 งั้นเวลาใช้เราก็ต้องมา join ตารางอีกล่ะสิ เพื่ออะไรเนี้ย
 
 ```sql
-select
+SELECT
 *
-from user_address
-join address on user_address.address_id = address.id
+FROM user_address
+JOIN address ON user_address.address_id = address.id
 ```
 
 Ref [https://www.periscopedata.com/blog/better-sql-schema.html?utm_source=dbweekly&utm_medium=email](https://www.periscopedata.com/blog/better-sql-schema.html?utm_source=dbweekly&utm_medium=email)
