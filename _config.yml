@@ -6,10 +6,11 @@ github_username: titipat
 encoding: UTF-8
 
 markdown: kramdown
+highlighter: pygments
 
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
+  syntax_highlighter: pygments
 
 # Pagination
 gems: [jekyll-paginate]

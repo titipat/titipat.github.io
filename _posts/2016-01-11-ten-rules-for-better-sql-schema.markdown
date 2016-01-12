@@ -50,7 +50,7 @@ SELECT SUM(item_value) AS photo_count
 student
 
 |id|first_name|last_name|
-|---|---|---|
+|---|:-:|--:|
 |12345|foo|bar|
 
 grade
@@ -89,7 +89,7 @@ $sql = "INSERT INTO user_log (user_id, updated_at) VALUES (1, " . date() . ")";
 
 ```php
 <?php
-$sql = "INSERT INTO user_log (user_id, udpated_at) VALUES (1, NOW())";
+$sql = "INSERT INTO user_log (user_id, updated_at) VALUES (1, NOW())";
 ```
 
 ที่ยังแค่ insert ยังเหนือยขนาดนี้ แล้วถ้า select, search ล่ะจะขนาดไหนไม่อยากนึกถึงเลย
