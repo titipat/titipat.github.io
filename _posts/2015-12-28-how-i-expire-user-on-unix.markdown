@@ -6,10 +6,10 @@ title: ผมลบผู้ใช้บน unix ยังไง
 
 โดยวิธีการที่ผมใช้คือผมจะสั่ง Lock พร้อมๆ กัน Expire user
 
-```
+```bash
 usermod -L USERNAME
 ```
 
-```
+```bash
 chage -E 2015-31-12 USERNAME
 ```
