@@ -5,13 +5,9 @@ twitter_username: holykyun
 github_username: titipat
 encoding: UTF-8
 
-markdown: kramdown
-
-kramdown:
-  input: GFM
-
-highlighter: pygments
+highlighter: redcarpet
 
 # Pagination
+gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "/page/:num"

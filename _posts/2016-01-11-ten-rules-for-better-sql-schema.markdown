@@ -49,16 +49,16 @@ SELECT SUM(item_value) AS photo_count
 
 student
 
-id|first_name|last_name
----|---|---
-12345|foo|bar
+|id|first_name|last_name|
+|---|---|---|
+|12345|foo|bar|
 
 grade
 
-id|student_id|alphabet
----|---|---
-1|12345|A
-2|12345|B+
+|id|student_id|alphabet|
+|---|---|---|
+|1|12345|A|
+|2|12345|B+|
 
 ตรง `grade.student_id` นี้สื่อได้ตรงเลยว่ามันคือ foreign key ที่ชื่อไปหาคอลัมน์ `id` ของตาราง `student` แน่นอน
 
@@ -66,15 +66,15 @@ id|student_id|alphabet
 
 instructor
 
-id|first_name|last_name
----|---|---
-678|john|doe
+|id|first_name|last_name|
+|---|---|---|
+|678|john|doe|
 
 student
 
-id|first_name|last_name|advisor_id
----|---|---|---
-12345|foo|bar|678
+|id|first_name|last_name|advisor_id|
+|---|---|---|---|
+|12345|foo|bar|678|
 
 ## 6. อย่าเก็บพวกวันเวลาเป็น String
 
@@ -112,16 +112,16 @@ SELECT id, email, [created_at:pst] FROM users
 
 user
 
-id|mac_address
----|---
-1|XXX
+|id|mac_address|
+|---|---|
+|1|XXX|
 
 แล้วพอมีเคสว่าผู้ใช้หนึ่งคนอาจจะมีได้หลายเครื่อง โปรแกรมเมอร์ท่านนี้ก็งอกเป็นตารางที่โนแนวกว้างเฉยเลย
 
-id|mac_address1|mac_address2
----|---|---
-1|XXX|YYY
-2|CCC|NULL
+|id|mac_address1|mac_address2|
+|---|---|---|
+|1|XXX|YYY|
+|2|CCC|NULL|
 
 นอกจากจะเก็บไม่ได้เรื่องแล้วยัง search ยากอีก ถ้าพี่จะเขียนแบบนี้ไป NoSQL หรือเป็น JSON ดีกว่านะครับ
 
@@ -131,15 +131,15 @@ id|mac_address1|mac_address2
 
 user_address
 
-id|user_id|address_id|city_id|country_id
----|---|---|---|---
-1|1|3|4|5
+|id|user_id|address_id|city_id|country_id|
+|---|---|---|---|---|
+|1|1|3|4|5|
 
 address
 
-id|address
----|---
-3|Sudo Apartment, Atom street
+|id|address|
+|---|---|
+|3|Sudo Apartment, Atom street|
 
 งั้นเวลาใช้เราก็ต้องมา join ตารางอีกล่ะสิ เพื่ออะไรเนี้ย
 
