@@ -5,7 +5,7 @@ twitter_username: holykyun
 github_username: titipat
 encoding: UTF-8
 
-highlighter: redcarpet
+highlighter: pygments
 
 # Pagination
 gems: [jekyll-paginate]
