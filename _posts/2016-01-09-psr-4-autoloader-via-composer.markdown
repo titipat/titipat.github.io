@@ -11,7 +11,6 @@ include __DIR__ . '/classes/SecondClass.php';
 include __DIR__ . '/classes/ThirdClass.php';
 
 // and so on ...
-
 ```
 
 ผมเชื่อว่าทุกคนที่เคยเขียน php น่าจะเคยเจอโค้ดแบบนี้ ที่ต้องมา include ไฟล์ทุกรอบๆ ในจะใช้งาน นอกจากจะเสียเวลาแล้วยังทำให้จัดการยากด้วย จะดีกว่าไหมถ้าเราใช้ autoloader มาช่วย
@@ -47,8 +46,7 @@ include __DIR__ . '/classes/ThirdClass.php';
 ```php
 <?php
 
-require __DIR__ . /vendor/autoloader.php';
+require __DIR__ . '/vendor/autoloader.php';
 
 $hello = new Titipat\Hello();
-
 ```
