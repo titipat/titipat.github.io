@@ -7,7 +7,7 @@ title: ทดลองใช้ Docker เลียนแบบ Web server, data
 
 #### Web server Dockerfile
 
-```dockerfile
+```
 # Web server
 
 FROM ubuntu
@@ -23,7 +23,7 @@ EXPOSE 80
 
 สำหรับ container ตัวนี้มีจุดพิเศษนิดหนึ่งว่าไฟล์ .sh และ .sql ในอยู่ใน `/docker-entrypoint-initdb.d/` จะถูกรันเองให้แค่เราใส่ deployment shell หรือ sql script ไว้ที่นี่ และตัวแปร `MYSQL_ROOT_PASSWORD` มีไว้เพื่อกำหนด root password แต่ถ้าใช้งานจริงไม่แนะนำให้ใช้แบบนี้นะ เพิ่มเติมอ่านต่อได้ที่ https://hub.docker.com/_/mysql
 
-```dockerfile
+```
 # Database
 
 FROM mysql
@@ -36,13 +36,13 @@ EXPOSE 3306
 
 โดยตรงชื่อว่า `db`
 
-```
+```bash
 docker run -d -P --name db titipat/quota-database
 ```
 
 #### Run web server
 
-```
+```bash
 docker run -d -p 80:80 --link db --name web titipat/web
 ```
 
