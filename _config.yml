@@ -6,7 +6,8 @@ github_username: titipat
 encoding: UTF-8
 
 markdown: kramdown
-highlighter: pygments
+#highlighter: pygments
+highlighter: rouge
 
 kramdown:
   input: GFM
