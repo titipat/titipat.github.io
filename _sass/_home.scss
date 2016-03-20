@@ -7,9 +7,18 @@
 
 }
 
+.button {
+  min-width: 100px;
+  color: $grey-color-dark;
+  display: inline-block;
+  padding: 6px 12px;
+  text-align: center;
+  border: 1px solid $grey-color;
+}
+
 .pagination {
   margin-top: 30px;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .rss-subscribe {
