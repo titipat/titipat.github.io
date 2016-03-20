@@ -137,8 +137,18 @@ blockquote {
     }
 }
 
+
+/**
+ * Pre
+ */
 pre {
-  font-size: 14px;
+  font-size: 95%;
+  padding: 10px;
+  background-color: #ddd;
+  white-space: pre;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -o-pre-wrap;
 }
 
 /**
