@@ -22,5 +22,10 @@
 }
 
 .rss-subscribe {
-  font-size: 12px;
+  padding-top: 20px;
+  font-size: 14px;
+
+  img {
+    max-height: 32px;
+  }
 }
