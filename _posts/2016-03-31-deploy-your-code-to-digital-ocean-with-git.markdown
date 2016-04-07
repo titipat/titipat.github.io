@@ -42,7 +42,7 @@ vi hooks/post-receive
 git --work-tree=/var/www/html --git-dir=/var/repo/myapp.git checkout -f
 ```
 
-โดย script ข้างบนจะทำการ checkout code ของเราไปที่ directory ของ apache web server และอย่าลืมตั้ง permission ให้ execute ได้ด้วย
+โดย script ข้างบนจะทำการ checkout code ของเราไปที่ directory `/var/www/html` ของ apache web server และอย่าลืมตั้ง permission ให้ hooks script สามารถ execute ได้ด้วยล่ะ
 
 ```bash
 chmod u+x hooks/post-receive
@@ -73,6 +73,8 @@ git push live master
 
 แล้วลองเข้า web server ของเราดูว่าเป็นอย่างไร
 
-เท่าที่ hooks script ที่เราตั้งไว้ก็จะ checkout code ของเราไปที่ directory ของ web server ให้เอง ถ้าต้องมีขั้นตอนอื่นก็สามารถปรับแต่งได้เองเลย ส่วนถ้าใครสนใจเรื่อง ci, cd ก็ติดตามอ่านกันต่อไป ผมเองก็เพิ่งจะเริ่มเหมือนกัน แล้วจะมาเล่าให้ฟังอีกครับ
+เท่านี้ hooks script ที่เราตั้งไว้ก็จะ checkout code ของเราไปที่ directory ของ web server ให้เอง ดังนั้นใครที่ยังใช้การ copy วางอยู่ลองหันมาใช้วิธีนี้ดูก็ได้นะครับ
+
+ถ้าต้องมีขั้นตอนอื่นก็สามารถปรับแต่งได้เองเลย ส่วนถ้าใครสนใจเรื่อง ci, cd ก็ติดตามอ่านกันต่อไป ผมเองก็เพิ่งจะเริ่มเหมือนกัน แล้วจะมาเล่าให้ฟังอีกครับ
 
 **ที่มา** [How To Set Up Automatic Deployment with Git with a VPS](https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps)
