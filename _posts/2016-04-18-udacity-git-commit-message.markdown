@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ทดลองใช้ Git commit message แบบ Udacity
+title: ทดลองใช้ Udacity git style 
 ---
 
 เพื่อนในทีมชวนให้ผมลองใช้ [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) ผมถูกใจมากเลยเอามาเล่าต่อ โดยในการใช้งานจะมีรูปแบบดังนี้
