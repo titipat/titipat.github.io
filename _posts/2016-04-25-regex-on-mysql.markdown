@@ -12,7 +12,7 @@ title: Regex บน mysql
 ```sql
 select *
 from products
-where no regexp '^...[0-6]..$'
+where products.no regexp '^...[0-6]..$'
 ```
 
 ดังนั้นการ implement web api บน illuminate database ของผมจึงเป็นตามนี้
