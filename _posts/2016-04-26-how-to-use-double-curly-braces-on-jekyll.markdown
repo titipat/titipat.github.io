@@ -3,7 +3,7 @@ layout: post
 title: วิธีพิมพ์ {{, }} บน jekyll
 ---
 
-เป็นเอนทรีต่อเนื่องจาก [เพราะเวลาของสองเราไม่เท่ากัน (mysql, js epoch time are not equals)](2016/04/26/two-time-not-equals.html) เมื่อผมจะใส่โค้ด angularjs ว่า
+เป็นเอนทรีต่อเนื่องจาก [เพราะเวลาของสองเราไม่เท่ากัน (mysql, js epoch time are not equals)](https://titipat.github.io/2016/04/26/two-time-not-equals.html) เมื่อผมจะใส่โค้ด angularjs ว่า
 
 {% raw %}
 ```html
