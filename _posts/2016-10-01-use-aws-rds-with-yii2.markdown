@@ -14,7 +14,7 @@ title: วิธีการต่อ AWS RDS แบบ SSL บน Yii2
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=YOUR_INSTANCE_NAME.xxxxxxxxxxx.REGION_ZONE.rds.amazonaws.com;dbname=YOUR_DATABASE_NAME',
+    'dsn' => 'mysql:host=INSTANCE.x.REGION.rds.amazonaws.com;dbname=DATABASE',
     'username' => 'YOUR_USERNAME',
     'password' => 'YOUR_PASSWORD',
     'charset' => 'utf8',
