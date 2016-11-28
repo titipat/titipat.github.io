@@ -32,15 +32,15 @@ layout: post
 
 สมมุติว่า endpoint `/students/123/enrollments?field=id,title` ใน nodejs จะอยู่ตัวแปร event มีหน้าตาประมาณนี้
 
-```javascript
+```json
 {
   "body-json": {},
-  params: {
-    path: {
-      id: '123'
+  "params": {
+    "path": {
+      "id": "123"
     },
-    querystring: {
-      field: "id,title"
+    "querystring": {
+      "field": "id,title"
     }
   }
 }
