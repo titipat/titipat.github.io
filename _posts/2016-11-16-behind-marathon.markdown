@@ -23,3 +23,9 @@ layout: post
 * **Github** เป็น code repository และเชื่อมกับ automatic deployment ของ heroku, ใช้ issue ในการพูดคุยของ dev
 * **Basecamp** ใช้ในช่วงแรกของโปรเจค แต่ก็ปิดไปเพราะไม่ค่อยมีคนใช้ เสียดายตัง
 
+## Update 2017-01-25
+
+เนื่องจากต้องส่ง conformation mail ให้กับผู้วิ่งแล้ว Mailgun ติด limit ส่งได้แค่ 100 ฉบับต่อวันแบบไม่ทราบสาเหตุ เลยเปลี่ยนมาใช้ [sendgrid.com](sendgrid.com) essentials plan ที่ $9.99 ต่อเดือน ส่งได้ 40,000 ฉบับ บริการมี native php library ให้เรียบร้อย 
+
+ตอนใช้จริงเนื่องจากไม่ได้ทำการ [warm-up ip](https://sendgrid.com/docs/Classroom/Deliver/Delivery_Introduction/warming_up_ips.html) ตามคำแนะนำ ทำให้เมลส่วนใหญ่ยังไม่สามารถส่งถึงผู้รับได้ทันที แต่จะติดสถานะ deffered แต่ทั้งหมด 4,000 ฉบับก็ถูกส่งถึงในเวลาวันกว่าๆ ถือว่าเป็นการแก้ปัญหาเฉพาะหน้าไป
+
