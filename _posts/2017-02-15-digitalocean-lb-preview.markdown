@@ -9,7 +9,7 @@ layout: post
 
 - สร้างง่าย กดคลิกภายในหน้าเดียว ระดับ web developer ก็ใช้เป็นเมื่อเทียบกับเจ้าอื่น
 - สามารถใช้ tag ในการเลือก worker ได้ เช่น เราอาจจะมี droplet (ชื่อที่ do ใช้เรียก vm instance) หลักร้อยตัวมานั่งเพิ่มทีละตัวคงไม่ไหว ดังนั้นใส่จาก tag เลยจะง่ายกว่า ส่วนถ้าต้องการเพิ่มเข้าออกแบบเยอะๆ แนะนำเรียกใช้ [api](https://developers.digitalocean.com/documentation/v2/#load-balancers) จะดีกว่า
-- รองรับการทำ http health check โดยเลือก path ได้
+- รองรับการทำ http health check โดยเลือก path ได้ เช่น สร้าง endpoint สำหรับตรวจสถานะของ web instance ไว้ที่ /my-custom-health-check เป็นต้น
 - ทำ http to https redirect ได้ในตัวแต่กดคลิก ใครเคยเจอปัญหาเสียเวลากับ https rewrite บ้างยกมือหน่อย (ฮา)
 - ทำ stick session ได้ในตัวแค่กดคลิก มันคือการเจาะจงว่าผู้ใช้มาครั้งแรกได้ worker ตัวไหนก็จะผูกไว้กับตัวนั้นเลยด้วย session ทำให้บางแอปที่ยังไม่เป็น fully stateless สามารถใช้ประโยคจาก lb ได้บ้าง
 
