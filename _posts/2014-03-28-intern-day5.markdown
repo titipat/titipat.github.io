@@ -1,7 +1,6 @@
 ---
 layout: post
 title: day5 การพยายามข้ามเรือครั้งที่สอง
-date: 2014-03-30 18:57:27.000000000 +07:00
 ---
 <a href="https://www.flickr.com/photos/holykyun/13508420313" title="IMG_20140328_075701 by holykyun, on Flickr"><img src="https://farm4.staticflickr.com/3680/13508420313_a7df8b0cb9_b.jpg" width="1024" height="768" alt="IMG_20140328_075701"></a>
 
