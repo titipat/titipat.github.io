@@ -1,14 +1,13 @@
 ---
 layout: post
 title: day9 เนื้อ~~~
-date: 2014-04-03 22:06:18.000000000 +07:00
 ---
-<a href="https://www.flickr.com/photos/holykyun/13582376855" title="IMG_20140402_130116 by holykyun, on Flickr"><img src="https://farm8.staticflickr.com/7434/13582376855_f5a0a100bc_b.jpg" width="768" height="1024" alt="IMG_20140402_130116"></a>
+![](https://lh3.googleusercontent.com/YnsTCnPHdFlqf-q_1QevDR9AQ_CeJFR6uxBkEBTkcNR4KIech4sx6IQIJBM92WeSkrGmoZiUjKu97fy4bg6iseAXYrhGyBufvzJxz27ld_dC4oZyTGZVd84E7QO2PfXn6jrLwk4oBWmaRuIdtOws_aJO57DBQGd6RDXN87SgVK8AW8bSrI79amLlCrCZ5UozeWEnV4Dr8YKZqtgqTW52e3_hJHj7-O3Yi3FgkCevneMkZI8VpJygJxz9N9QI04KYfrxau-f2E_2duXbI7nmSV5uTc3ARQeodrZDMIzq7U47oejU2uLovxZs6rCkcaljZP99NBsV0uLw9XLdMQGgAfNVdnqB78ALMFLbjgrcBx11oHpmVLj-6SprwldpIB9C9UpI33ikfKg6kvmDHijo4HSm02vzVtS4A7I2HWQoSg0KdL-LvWQ5NLml1nw01ypPeL2dViy0k3RhmVyAnFhKRJwDR5sZJU2JXsj5JMn-y9iTd_mbHTvuF2UCkBMXjeCA6r357zX-GiDbO9bV69WVusT261i7tYqN27CGf4o5ob2C7a1ldQ_04PzduAnEwb0-eQuuMVlEmO8ru7g_WAgEh4w0axp4AnxGER2S018Fp5rSI9wCumg=w811-h1081-no)
 
-แหมๆๆ วันนี้เปิดงานได้แบบอลังการมาก เนื่องจากเมื่อคืนมีเครื่องเซิฟเวอร์เข้ามาใหม่ประกอบกับพี่ๆอยากให้ผมได้ลองทำงานนี้บ้าง เข้างานมาเลยเจอตั้งแต่การตรวจหลักฐานเอกสารต่างๆ แบบเดียวกับที่เล่าไปวันก่อนเลยว่าทำไมทางบริษัทต้องเก็บข้อมูลพวกนี้ หลังจากนั้นก็สแกนเก็บไว้เป็นไฟล์ดิจิตอลอีกชุดหนึ่งเพื่อส่งเข้าระบบ จบด้วยการเข้าไปติดหมายเลข IP address ที่หน้าเครื่องจริง
+เช้าได้เข้าไปติด Label หน้าเครื่องเซิร์ฟเวอร์เป็นขั้นตอนต่อจากงานเอกสาร สำหรับที่นี้ก็จะระบุชื่อเจ้าของและ IP address ของเครื่อง
 
-ช่วงเที่ยงวันนี้มีไปส่งจดหมายนิดหน่อยหลังจากทางข้าวเที่ยงแล้ว มาจุดนี้ผมสังเกตว่างานเอกสารก็ต้องใส่ใจทุกชิ้นเช่นกันครับ ขั้นต่ำเลยของการส่งคือไปรษณีย์ลงทะเบียน มันก็แพงกว่าส่งธรรมดาอยู่เหมือนกัน แต่ผมเดาว่าเพื่อตรวจสอบย้อนหลังในกรณีเกิดสูญหายล่ะมั้ง ส่วนบางฉบับที่รีบหน่อยก็จะส่งเป็น EMS แต่ถ้ารีบแบบระดับสุดบิดมิดด้ามเลยจะเป็นการใช้บริการพี่วินแมงกาไซต์ไปส่งโดยตรงเลย ส่วนความฮาของวันนี้อยู่ที่ลูกค้าคนหนึ่งครับ ที่โทรมาขอรีสตาร์ทเครื่องตั้ง 4 รอบ
+ช่วงเที่ยงแวะไปส่งจดหมาย ทุกครั้งที่ส่งเอกสารต้องเลือกเป็นไปรษณีย์ลงทะเบียนหรือดีกว่า เพื่อให้สามารถติดตามได้หากเกิดปัญหา ส่วนชิ้นไหนรีบมากขึ้นจะส่งเป็น EMS แต่ถ้ารีบแบบระดับสุดบิดมิดด้ามจะเป็นการใช้บริการพี่วินมอไซค์ไปส่งโดยตรง
 
-และก่อนจากกันผมขอเสนอเนื้อชาบูร้าน Akiyoshi ใกล้สถานนี BTS พระโขนง เนื้อสไดล์บางๆ ทานคู่กับน้ำจิ้มงารสชาติเข้มข้นเข้ากันได้อย่างดีเลย ณ จุดนี้ลองจินตนาการภาพว่าตัวเองกับกำลังทานอยู่แล้วทำท่ารีแอคชั่นเหมือนในการ์ตูนทำอาหารดูสิ ขากลับยังไม่วายไปเดินเที่ยว Gateway Ekamai ความจริงจุดประสงค์ผมอยากจะมาซื้อไมโครโฟน Blue Snowball ครับแต่ของหมดเลยเกือบจะประชดชีวิตด้วยการวู่วามเข้าร้าน Maidreamin ซะแล้ว ดีที่คนที่มาด้วยห้าม(ล๊อค)เอาไว้ซะก่อน
+![](https://lh3.googleusercontent.com/LKpAfMs1OZWuSAbXuoLB1YUZh8gal0JEOw624jnp8XX6QDXkfumasn9DHfCwgwueGwjRbjl2uttfLs_l_VXSrDaugjEy2VXso41HwmQO3DAu8KeH6_Q0YGkk0kHjwGyPMsbDem6ih5wpDKXHA1clCJunkAQhqcb8U7lZBP3vgeQGAZhq18UV07tGPDmH6z8ShZqvNG2ZeFxpZzaTUhpLd56dSBUlVfztcqvJ2nesMj-4IdmYwUGHNT-Y1DnejtAS3-DoaY2atUULMDNahRU_duGG4GZZ2-PAo4kz4zetAR_meqDiSEP1-sQX4wiWpRE5gG5Sejh5HOzKtDwfnz-NcMD4ZfAKIsALAhN_S6fXZNIsJzTQLeIv8uzo1UcyOFr58TN65ZIPTIxmXSfRvmMK34O_l0GphnO5bIZvPBvqPiFLHlAzeA5_gd9ujZzKbQqhQwFifOaWkdPJLfienoJsWrPu5iN2qQxvMFIiGtHUdGqHDGKbIs6kjI_wU6nmiHCCA0p2bCgiDH6OQBfP3aWm-Ntna-hox3Bv6ESU8-BMGIgbSZdfwADxBXLWqao89gQx48EZ3OCWpZM9kGqc6tOVQwQch8kaukrKy3GGkXcYCOO_VUFM3g=w811-h1081-no)
 
-<a href="https://www.flickr.com/photos/holykyun/13603840504" title="IMG_20140403_185902 by holykyun, on Flickr"><img src="https://farm4.staticflickr.com/3766/13603840504_b6f167d766_b.jpg" width="768" height="1024" alt="IMG_20140403_185902"></a>
+และก่อนจากกันผมขอเสนอเนื้อชาบูร้าน Akiyoshi ใกล้สถานนี BTS พระโขนง เป็นชุดเนื้อสไดล์ทานคู่กับน้ำจิ้มงา จากแวะมาห้าง Gateway Ekamai ซื้อไมโครโฟน Blue Snowball แต่ของหมดเลยเกือบจะประชดชีวิตด้วยการเข้าร้านเมดคาเฟ่ Maidreamin
