@@ -1,6 +1,9 @@
 ---
 layout: post
 title: ติดตั้ง Package manager Chocolatey บน Windows 10
+category: development
+tags: 
+  - chocolatey
 ---
 
 Chocolatey เป็นอีกหนึ่ง Windows Package manager ที่คล้ายกับ apt-get ใน Ubuntu/Debian, yum ใน CentOS/RHEL, หรือ homebrew ใน macOS ที่ผมใช้มาสักระยะหนึ่งแล้วคิดว่าดีมากจึงนำมาแนะนำให้ลองกัน
@@ -26,8 +29,6 @@ choco upgrade chocolatey
 ```
 
 ในอนาคตหากจำเป็นต้องลง Package ที่ไม่ได้รับรองจริงๆ สามารถเปลี่ยนเป็น ExecutionPolicy Unrestricted ได้นะแต่ต้องเพิ่มความระมัดระวังหรือตั้งแล้วเปลี่ยนกลับทันทีเมื่อลงเสร็จ
-
----
 
 References:
 

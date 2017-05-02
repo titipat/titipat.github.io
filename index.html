@@ -8,7 +8,7 @@ layout: default
     <!-- This loops through the paginated posts -->
     {% for post in paginator.posts %}
     <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-    <h4 class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</h4>
+    <h4 class="post-meta">{{ post.date | date: "%b %-d, %Y" }} - {{ post.content | reading_time | pluralize: "minute" }} to read</h4>
     {% endfor %}
   </div>
 
@@ -22,6 +22,10 @@ layout: default
     {% endif %}
   </div>
 
-  <div class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}"><img src="https://cdnjs.cloudflare.com/ajax/libs/webicons/2.0.0/webicons/webicon-rss.svg"></a></div>
+  <div class="rss-subscribe">
+    <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/webicons/2.0.0/webicons/webicon-rss.svg">
+    </a>
+  </div>
 
 </div>
