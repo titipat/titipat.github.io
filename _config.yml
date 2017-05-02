@@ -6,14 +6,22 @@ github_username: titipat
 encoding: UTF-8
 
 markdown: kramdown
-#highlighter: pygments
+kramdown:
+  auto_ids:       true
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  input:          GFM
+  hard_wrap: false
+  footnote_nr:    1
+
 highlighter: rouge
 
-kramdown:
-  input: GFM
-  syntax_highlighter: pygments
-
-# Pagination
-gems: [jekyll-paginate]
+gems: 
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-default-layout
+  - kramdown
+  - rouge
 paginate: 5
 paginate_path: "/page/:num"
