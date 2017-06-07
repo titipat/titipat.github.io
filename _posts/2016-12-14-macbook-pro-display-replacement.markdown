@@ -3,11 +3,13 @@ layout: post
 title: เปลี่ยนจอ Macbook pro retina จอลอก
 ---
 
-# ยาวไปไม่อ่าน
+*tl;dr*
 
 Macbook pro retina ผมจอลอกเลยเอาไปส่งซ่อมที่ icare ใช้เวลา 15 วันได้เปลี่ยนจอส่วนบนทั้งดุ้นไม่เสียค่าใช้จ่าย
 
+Update 2017-06
 
+- แอปเปิลขยายเวลาถึงเดือนตุลาคมปีนี้ https://www.macrumors.com/2017/02/24/apple-extended-anti-reflective-repair-program/
 
 Macbook pro retina มาพร้อมกับสารเครือบจอใหม่ที่แอปเปิลโม้ว่าลดแสงสะท้อนดีกว่ารุ่นก่อนๆ ซึ่งมันก็ลดได้จริงแต่กลับเกิดปัญหาสารเคลือบจอลอกแทน เครื่องผมก็โดนเช่นกันเลยเอาไปส่งเปลี่ยนจอที่ icare ซึ่งเป็น authorised service provider มา
 
