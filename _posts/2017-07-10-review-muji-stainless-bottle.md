@@ -5,7 +5,7 @@ title: รีวิวกระติกน้ำมูจิ
 
 ![](https://lh3.googleusercontent.com/r5a4RKcmkYhFvqaLEFUOiLRvB1BbfQBbxMPmu1QUekYZ0ZWYU31fc7kgPHKJkBTWFuespy2En1NgFxW3M4jIuX5ZEui1Ys_MiWhNvlstTlFITW4wzrqRHLxUmdqnNKGSQsisAnRz9CpikYUiY-Rr_Rt41HO8-_1XXuLsxNkk2XG-w4_MpFbhWA4iYh6rXkJepk1sXWrWDr2FtwT2_sgQvV3thdpPvPGaP_JEZjXQdwuTa9-FyicsGMcq8UysofeSc0GZ73VqLoiXh6UJ-eDyivM6QHanFdkkcIVsugixzRsQTbMf3l3-lKFS5fn6ArDDhZYj357Q2a7VSsnZhb0EKVQEww9IMiVr_1iXcaoX9MX4p71XRzg_G60q2NMUkigLLSnRKYXWvN_WkEBVqZ7SORTEwUC1glvUBhw-U_POF_yeT1g7E_2RC-0sGsNSPs2Vgoir4pDWKo5f9ghEqvlEm3umKdWCMy2IQ4doSfNK4Q7S-y8t36DmLvOGHSw1dsWE6Km4Kz1a2FWg6tOebFG2MbbSeq_-mSmUTMjVaCCgvhEfRYiSotst6hYeb-La34OhKYcrfVDZJtXA8J_j1kcaCo1GlEu-dc-CicthG3dAE0Q2cXDNgEQcyvVDXw=w1804-h1352-no)
 
-มูจิ (Muji) หรือในชื่อเต็ม "Mujirushi Ryohin" ซึ่งแปลว่า "ไม่มีแบรนด์" สินค้าของแบรนด์นี้มักออกแบบในลักษณะหน้าตาเรียบง่าย เลือกใช้โทนสีไม่ฉูดฉาด ตามแนวคิดแบบจุลนิยมหรือ Minimalist ผมได้วู่วามซื้อกระติกน้ำร้อนมาเลยนำมาเล่าให้ฟัง
+มูจิ (Muji) หรือในชื่อเต็ม "Mujirushi Ryohin" ซึ่งแปลว่า "ไม่มีแบรนด์" สินค้าของแบรนด์นี้มักออกแบบในลักษณะหน้าตาเรียบง่าย เลือกใช้โทนสีไม่ฉูดฉาด ตามแนวคิดแบบจุลนิยมหรือ Minimalist ผมได้วู่วามซื้อกระติกน้ำมาเลยนำมาเล่าให้ฟัง
 
 ## คุณสมบัติ
 
@@ -21,7 +21,7 @@ title: รีวิวกระติกน้ำมูจิ
 ## ข้อเสีย
 
 - น้ำหนักเยอะ ขนาด 500 มิลลิลิตรมีน้ำหนักประมาณ 310 กรัม
-- *ถ้าไม่ได้ใส่ที่กั้นน้ำแข็ง เมื่อปิดฝาแล้วคว่ำกระติกจะมีน้ำขังที่ฝาทำให้เมื่อเปิดจะหกเลอะเทอะ
+- *ถ้าไม่ได้ใส่ที่กั้นน้ำแข็ง เมื่อปิดฝาแล้วคว่ำกระติกจะมีน้ำขังที่ฝาทำให้เมื่อเปิดฝาแล้วหกเลอะเทอะ
 - ราคาสูง หนึ่งพันกว่าบาท
 - ทำจากวัสดุสแตนเลสเป็นรอยขนแมวง่าย และบุบเมื่อตกหรือกระแทก
 
