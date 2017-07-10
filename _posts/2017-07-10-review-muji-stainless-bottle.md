@@ -27,5 +27,5 @@ title: รีวิวกระติกน้ำมูจิ
 
 ## อ้างอิง
 
-- [MUJI วิถีที่เรียบง่ายและพอเพียง \| INCquity](http://incquity.com/articles/muji-natural-and-simple)
+- [MUJI วิถีที่เรียบง่ายและพอเพียง - INCquity](http://incquity.com/articles/muji-natural-and-simple)
 
