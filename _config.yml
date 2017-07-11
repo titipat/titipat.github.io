@@ -3,11 +3,18 @@ description: บล็อกน้อยๆของหนุ่มวิศว�
 url: "https://titipat.github.io"
 twitter_username: holykyun
 github_username: titipat
-encoding: UTF-8
 
 markdown: kramdown
-
 highlighter: rouge
+
+kramdown:
+  auto_ids:       true
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  input:          GFM
+  hard_wrap:      false
+  footnote_nr:    1
 
 plugins_dir: 
   - jekyll-sitemap
@@ -17,3 +24,8 @@ plugins_dir:
   - rouge
 paginate: 5
 paginate_path: "/page/:num"
+
+sass:
+  style: compressed
+
+timezone: Asia/Bangkok
