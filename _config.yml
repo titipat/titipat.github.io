@@ -16,7 +16,7 @@ kramdown:
   hard_wrap:      false
   footnote_nr:    1
 
-plugins_dir: 
+gems: 
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-default-layout
