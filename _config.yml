@@ -9,7 +9,7 @@ markdown: kramdown
 
 highlighter: rouge
 
-gems: 
+plugins_dir: 
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-default-layout
