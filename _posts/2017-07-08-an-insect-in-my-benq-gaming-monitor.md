@@ -3,7 +3,7 @@ layout: post
 title: แมลงเข้าจอคอม BenQ และการส่งซ่อม
 ---
 
-![](https://lh3.googleusercontent.com/6Qls5YbkNYEAQ1yHhQJzsuo8_IoIe4djl-7ylRPh0dx4AICfsHVALTK8kqgAwSe2rVRZoNStKZZPle26BS1ZOkGJb_YzcT2Xo12zx_tUZpbGPTJRBaD0wcg6G8YxuAzCO78VC7MDPtfAHOcmS6tBag-hfnSrhwnIEkTVVRinQyipoiorqu1-mhyUUwt9wPmEW5sw39i8cQr9ibUVWy-xnQmuJlmZoL9vM5fKorDK6cnRa3RWJ-CT7ImiNNTXiBD5WPCwiLT9m4Y_3RN35lnwsFE9dLcx6pjglgnuSSQ2nr5NdT_XB1GvKAPkC1iSn7iEX7W2TCkQjZ8R9gVgzkYDYwlbMmEFBQ1cB9xgRovMPgmkM2UTAw8GQ4WhVaKtHweTk_YOLqzt-dLvfc-K12rjLPV7NT-JPGSLRus9lUw-mktto1UHmtZ_AAH9CC_gzdzGQYdf65e2-BS75VYz5xqHrazRmNit465SRfzblHZTBreB4aUPLhkyNixIN-cgSwpWN1tzPpis-fKAHm70qDp3-hFGbzxjwP7bYT02hjJHdsaVUo_ERgQ_wsw-WOvciDGnV0Ae5yE68tXCPuEizpSlcXzJlrDBxzmrhiy3l_uiSXGfce-zEVO3vJPo-g=w2404-h1352-no)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/156710073@N02/35852545045/in/dateposted-public/" title="IMG_0089"><img src="https://farm5.staticflickr.com/4265/35852545045_1c60e4ec8f_k.jpg" width="2048" height="1152" alt="IMG_0089"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 - ผมใช้จอ BenQ รุ่น XL2720Z เกิดเหตุการณ์ขณะอายุจอ 1 ปีและยังอยู่ในประกัน
 - แมลงเข้าไประหว่างฟิล์มหน้าจอและแผง LED
