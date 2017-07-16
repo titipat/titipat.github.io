@@ -22,6 +22,7 @@ title: รีวิวกระติกน้ำมูจิ
 - *ถ้าไม่ได้ใส่ที่กั้นน้ำแข็ง เมื่อปิดฝาแล้วคว่ำกระติกจะมีน้ำขังที่ฝาทำให้เมื่อเปิดฝาแล้วหกเลอะเทอะ
 - ราคาสูง หนึ่งพันกว่าบาท
 - ทำจากวัสดุสแตนเลสเป็นรอยขนแมวง่าย และบุบเมื่อตกหรือกระแทก
+- ด้วยความสูงทำให้วางในที่วางแก้วน้ำในรถไม่มั่นคง ทำให้มีกระทบบ้างในบางจังหวะ
 
 ## รูปปลากรอบ
 
@@ -30,6 +31,8 @@ title: รีวิวกระติกน้ำมูจิ
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/156710073@N02/35040803753/in/album-72157683403242803/" title="IMG_0272"><img src="https://farm5.staticflickr.com/4262/35040803753_4605fad25c_k.jpg" width="2048" height="1536" alt="IMG_0272"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/156710073@N02/35718327011/in/album-72157683403242803/" title="IMG_0271"><img src="https://farm5.staticflickr.com/4287/35718327011_b98aea34e3_k.jpg" width="2048" height="1536" alt="IMG_0271"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/156710073@N02/35915949046/in/dateposted-public/" title="DSC_6965"><img src="https://farm5.staticflickr.com/4326/35915949046_e63c6b0b8e_k.jpg" width="2048" height="1360" alt="DSC_6965"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## อ้างอิง
 
