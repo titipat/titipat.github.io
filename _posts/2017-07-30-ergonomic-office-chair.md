@@ -1,8 +1,6 @@
 ---
-
+title: รักเมื่อแรกนั่ง ความรู้สึกเมื่อลอง Ergonomic office chair ที่มีขายในไทย
 ---
-
-# รักเมื่อแรกนั่ง ความรู้สึกเมื่อลอง Ergonomic office chair ที่มีขายในไทย
 
 > **Ergonomics**
 >
