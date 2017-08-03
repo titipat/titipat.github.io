@@ -19,7 +19,7 @@ $ brew tap homebrew/homebrew-php
 PHP ที่ติดมากับเครื่อง macOS ผมเข้าใจว่าเป็น 5.6.x ดังนั้นผมจะลง PHP 7.1 ซึ่งเป็น Current stable (ณ เวลาที่เขียน) โดยคำสั่ง
 
 ```
-brew install php71
+$ brew install php71
 ```
 
 สำหรับใครที่ต้องการหาไลบรารี่อื่นๆ สามารถลองหาของเวอร์ชันนั้นได้
@@ -46,8 +46,16 @@ $ brew-php-switcher php71 # set active php version to 7.1
 แล้วก็ผมไม่อยากยัด composer.phar เข้าไปใน Code repository ด้วยดังนั้นผมจะลง composer ไว้ที่เครื่องตัวเองเลย
 
 ```
-brew install composer
+$ brew install composer
 ```
+
+แล้วเวลาใช้งานถ้านอกจาก Laravel ที่เรียก Built-in web server ด้วย artisan ผมจะใช้
+
+```
+$ php -S localhost:8080 -t work_dir/
+```
+
+
 
 ## Docker
 
@@ -58,7 +66,7 @@ brew install composer
 ผมชอบใช้ MariaDB มากกว่า MySQL ทั้งในแง่ของเทคนิค(ซึ่งจะไม่อธิบายตรงนี้เพราะยาวแน่) และความชอบส่วนตัวดังนั้นลงๆ ไปเถอะ
 
 ```
-brew install mysql
+$ brew install mysql
 ```
 
 ตรงนี้เราเลือกได้ว่าจะให้มัน Auto start ทุกครั้งที่เปิดเครื่องไหมด้วยเครื่องมือ homebrew-services https://github.com/Homebrew/homebrew-services
