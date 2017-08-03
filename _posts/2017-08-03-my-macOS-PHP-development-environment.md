@@ -22,16 +22,10 @@ PHP ที่ติดมากับเครื่อง macOS ผมเข้
 $ brew install php71
 ```
 
-สำหรับใครที่ต้องการหาไลบรารี่อื่นๆ สามารถลองหาของเวอร์ชันนั้นได้
+สำหรับใครที่ต้องการหาไลบรารี่อื่นๆ สามารถลองหาของเวอร์ชันนั้นได้ ตัวอย่างถ้าจะลง mcrypt บน version 7.1
 
 ```
-# $ brew search php71-<LIB_NAME>
-$ brew search php71-mcrypt
-```
-
-พอเจอทีต้องการก็ลงเลย
-
-```
+# brew search php71-<LIB_NAME>
 $ brew install php71-mcrypt
 ```
 
@@ -40,7 +34,8 @@ $ brew install php71-mcrypt
 ```
 $ brew install brew-php-switcher
 $ brew install php56
-$ brew-php-switcher php71 # set active php version to 7.1
+# set active php to 7.1
+$ brew-php-switcher php71
 ```
 
 แล้วก็ผมไม่อยากยัด composer.phar เข้าไปใน Code repository ด้วยดังนั้นผมจะลง composer ไว้ที่เครื่องตัวเองเลย
