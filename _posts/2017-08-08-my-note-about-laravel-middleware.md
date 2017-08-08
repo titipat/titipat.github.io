@@ -1,5 +1,5 @@
 ---
-title: โน๊ต Middleware ใน Laravel framework
+title: โน้ต Middleware ใน Laravel framework
 ---
 
 พอดีได้ไปช่วย Debug แอปมาเลยขอจดบันทึกเอาไว้เผื่อจะเป็นประโยชน์ต่อไปครับ

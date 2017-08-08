@@ -1,5 +1,5 @@
 ---
-title: รีวิว Beats X หูฟังไรสายอีกตัวที่น่าสนใจ
+title: รีวิว Beats X หูฟังไร้สายอีกตัวที่น่าสนใจ
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/156710073@N02/36354748436/in/dateposted-public/" title="Untitled"><img src="https://farm5.staticflickr.com/4433/36354748436_d14d7a309b_k.jpg" width="2048" height="1365" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
