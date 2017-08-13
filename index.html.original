@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <div class="home-post">
+    <!-- This loops through the paginated posts -->
+    {% for post in paginator.posts %}
+    <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+    <h4 class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</h4>
+    {% endfor %}
+  </div>
+
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous button">Previous</a>
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next button">Next</a>
+    {% endif %}
+  </div>
+
+  <div class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}"><img alt="RSS Feed" src="https://cdnjs.cloudflare.com/ajax/libs/webicons/2.0.0/webicons/webicon-rss.svg"></a></div>
+
+</div>
