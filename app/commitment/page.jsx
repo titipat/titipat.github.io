@@ -11,7 +11,7 @@ export default function CommitmentPage() {
       </Breadcrumbs>
       <Card>
         <CardBody>
-          <p className="text-sm text-neutral-500">
+          <p className="text-sm text-default-500">
             This page is currently under development.
           </p>
         </CardBody>
