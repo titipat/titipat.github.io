@@ -24,13 +24,34 @@ export default function Home() {
   }
 
   return (
-    <div className="h-dvh flex flex-col p-4 pb-8">
+    <div className="h-dvh flex flex-col p-4">
+      <header className="container mx-auto flex flex-row justify-between">
+        <div className="hidden sm:block font-semibold">Titipat.net</div>
+        <div className="grow sm:grow-0 flex flex-row justify-around gap-2">
+          {links.map((link, index) => {
+            const { text, href, isExternal } = link;
+            return (
+              <Link
+                key={index}
+                href={href}
+                color="foreground"
+                underline="hover"
+                isExternal={isExternal || false}
+                showAnchorIcon={isExternal || false}
+              >
+                {text}
+              </Link>
+            );
+          })}
+        </div>
+      </header>
       <main className="grow flex flex-col justify-center gap-8 items-center">
         <div className="text-4xl">{`I'm Titipat`}</div>
 
         <div className="text-md sm:text-lg text-pretty text-center">{`Full-stack web developer from Thailand`}</div>
 
         <Button
+          className="font-semibold"
           color="primary"
           variant="shadow"
           radius="full"
@@ -42,23 +63,6 @@ export default function Home() {
           Make an Appointment
         </Button>
       </main>
-      <footer className="grow-0 grid grid-flow-row sm:grid-flow-col gap-2 place-content-center place-items-center">
-        {links.map((link, index) => {
-          const { text, href, isExternal } = link;
-          return (
-            <Link
-              key={index}
-              href={href}
-              color="foreground"
-              underline="hover"
-              isExternal={isExternal || false}
-              showAnchorIcon={isExternal || false}
-            >
-              {text}
-            </Link>
-          );
-        })}
-      </footer>
     </div>
   );
 }
